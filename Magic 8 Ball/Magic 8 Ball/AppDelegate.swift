@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Magic 8 Ball
 //
-//  Created by Hans Eriksson on 2018-10-10.
+//  Created by SuperSwiftX on 2018-10-10.
 //  Copyright © 2018 SuperiorSwiftX. All rights reserved.
 //
 
